@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Dept Request App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 06:09:39</sys_created_on>
+        <sys_id>51452f7322613110bdab60c8577e38cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dept Request App Config</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_update_name>sys_ux_app_config_51452f7322613110bdab60c8577e38cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 06:09:39</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=51452f7322613110bdab60c8577e38cc"/>
+</record_update>

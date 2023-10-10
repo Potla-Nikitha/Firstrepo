@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Dept Request">59452f73b661311082a93accfa9d98c4</dashboard>
+        <group/>
+        <role display_value="x_842913_dept_re_0.fulfiller" name="x_842913_dept_re_0.fulfiller">af41ff634725311059490dae436d4328</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 06:09:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>ee456f734761311059490dae436d43dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>59452f73b661311082a93accfa9d98c4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_update_name>par_dashboard_permission_ee456f734761311059490dae436d43dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 06:09:43</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

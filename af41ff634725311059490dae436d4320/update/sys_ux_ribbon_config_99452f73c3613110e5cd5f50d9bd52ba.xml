@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Dept Request Ribbon Config</description>
+        <name>Dept Request Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 06:09:39</sys_created_on>
+        <sys_id>99452f73c3613110e5cd5f50d9bd52ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dept Request Ribbon Config</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_99452f73c3613110e5cd5f50d9bd52ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 06:09:39</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

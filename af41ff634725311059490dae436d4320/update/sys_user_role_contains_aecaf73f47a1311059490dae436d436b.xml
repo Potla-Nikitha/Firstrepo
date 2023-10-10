@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_842913_dept_re_0.Admin" name="x_842913_dept_re_0.Admin">1ecaf73f47a1311059490dae436d4303</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 07:43:39</sys_created_on>
+        <sys_id>aecaf73f47a1311059490dae436d436b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_842913_dept_re_0.Admin</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_update_name>sys_user_role_contains_aecaf73f47a1311059490dae436d436b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 07:43:39</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

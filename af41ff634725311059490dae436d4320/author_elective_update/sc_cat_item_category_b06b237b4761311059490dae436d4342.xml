@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Departmental request">ff772b374761311059490dae436d43fa</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 06:36:21</sys_created_on>
+        <sys_id>b06b237b4761311059490dae436d4342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Departmental request</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_update_name>sc_cat_item_category_b06b237b4761311059490dae436d4342</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 06:36:21</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">af41ff634725311059490dae436d4320</application>
+        <file_path/>
+        <instance_id>6bda1a29dbd9211042b321c4059619e8</instance_id>
+        <instance_name>dev157483</instance_name>
+        <name>sc_cat_item_category_b06b237b4761311059490dae436d4342</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Departmental request">ff772b374761311059490dae436d43fa</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-05 06:36:21</sys_created_on><sys_id>b06b237b4761311059490dae436d4342</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Departmental request</sys_name><sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package><sys_policy/><sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope><sys_update_name>sc_cat_item_category_b06b237b4761311059490dae436d4342</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-05 06:36:21</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-635290225</payload_hash>
+        <record_name>Can We Help You?.Departmental request</record_name>
+        <reverted_from/>
+        <source>6f41ff634725311059490dae436d4324</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 06:36:21</sys_created_on>
+        <sys_id>306b237b4761311059490dae436d4346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18afe8d34ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 06:36:21</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>706b237bed61311054dc3ca05e74e145</update_guid>
+        <update_guid_history>706b237bed61311054dc3ca05e74e145:-635290225</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Departmental request">5c6ce3bb4761311059490dae436d4301</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 06:40:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>210be356d713404b89624fb545426939</sys_id>
+        <sys_metadata>b06b237b4761311059490dae436d4342</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Departmental request</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_scope_delete display_value="">07bceb2ea8fa425681d6ae37b90b6884</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b06b237b4761311059490dae436d4342</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b06b237b4761311059490dae436d4342">306b237b4761311059490dae436d4346</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 06:40:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_842913_dept_re_0_request">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>Dept Request - x_842913_dept_re_0_request</name>
+        <roles/>
+        <source_table>x_842913_dept_re_0_request</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 06:09:44</sys_created_on>
+        <sys_id>3e45af734761311059490dae436d432c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dept Request - x_842913_dept_re_0_request</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_update_name>sys_search_source_3e45af734761311059490dae436d432c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 06:09:44</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e45af734761311059490dae436d432c"/>
+</record_update>

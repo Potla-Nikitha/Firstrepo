@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Dept Re 0 1696485217944</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_842913_dept_re_0_1696485217944</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 05:53:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b91e37f4721311059490dae436d43b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dept Re 0 1696485217944</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_update_name>sys_app_module_9b91e37f4721311059490dae436d43b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 05:53:39</sys_updated_on>
+        <timeline_page/>
+        <title>Dept Re 0 1696485217944</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">af41ff634725311059490dae436d4320</application>
+        <file_path/>
+        <instance_id>6bda1a29dbd9211042b321c4059619e8</instance_id>
+        <instance_name>dev157483</instance_name>
+        <name>sys_app_module_9b91e37f4721311059490dae436d43b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Dept Re 0 1696485217944</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_842913_dept_re_0_1696485217944</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-05 05:53:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b91e37f4721311059490dae436d43b8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dept Re 0 1696485217944</sys_name><sys_overrides/><sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package><sys_policy/><sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope><sys_update_name>sys_app_module_9b91e37f4721311059490dae436d43b8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-05 05:53:39</sys_updated_on><timeline_page/><title>Dept Re 0 1696485217944</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1513927042</payload_hash>
+        <record_name>Dept Re 0 1696485217944</record_name>
+        <reverted_from/>
+        <source>6f41ff634725311059490dae436d4324</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 05:53:39</sys_created_on>
+        <sys_id>9f91e37f4721311059490dae436d43bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18afe661e410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 05:53:39</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9391e37faa213110b8307cfbb9db98bb</update_guid>
+        <update_guid_history>9391e37faa213110b8307cfbb9db98bb:-1513927042</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dept Re 0 1696485217944">7f22af7f4721311059490dae436d43ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 05:56:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0366c0c5a58a420488184a1a94cfdbe4</sys_id>
+        <sys_metadata>9b91e37f4721311059490dae436d43b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dept Re 0 1696485217944</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_scope_delete display_value="">07bceb2ea8fa425681d6ae37b90b6884</sys_scope_delete>
+        <sys_update_name>sys_app_module_9b91e37f4721311059490dae436d43b8</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9b91e37f4721311059490dae436d43b8">9f91e37f4721311059490dae436d43bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 05:56:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
