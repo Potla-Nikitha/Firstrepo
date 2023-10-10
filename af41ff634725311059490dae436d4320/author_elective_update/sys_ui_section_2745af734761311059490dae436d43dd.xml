@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="2745af734761311059490dae436d43dd" sys_domain="global" table="x_842913_dept_re_0_type" version="3" view="workspace-dept-request-0">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_842913_dept_re_0_type</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-05 06:09:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2745af734761311059490dae436d43dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_842913_dept_re_0_type</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+            <sys_update_name>sys_ui_section_2745af734761311059490dae436d43dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-05 06:09:47</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Dept Request 0" name="workspace-dept-request-0">dd452f73d7613110c96e0a1638fb41c1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">af41ff634725311059490dae436d4320</application>
+        <file_path/>
+        <instance_id>6bda1a29dbd9211042b321c4059619e8</instance_id>
+        <instance_name>dev157483</instance_name>
+        <name>sys_ui_section_2745af734761311059490dae436d43dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="2745af734761311059490dae436d43dd" sys_domain="global" table="x_842913_dept_re_0_type" version="3" view="workspace-dept-request-0"><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_842913_dept_re_0_type</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-05 06:09:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2745af734761311059490dae436d43dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_842913_dept_re_0_type</sys_name><sys_overrides/><sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package><sys_policy/><sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope><sys_update_name>sys_ui_section_2745af734761311059490dae436d43dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-05 06:09:47</sys_updated_on><sys_user/><title>true</title><view display_value="Workspace Dept Request 0" name="workspace-dept-request-0">dd452f73d7613110c96e0a1638fb41c1</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-877400126</payload_hash>
+        <record_name>Type</record_name>
+        <reverted_from/>
+        <source>6f41ff634725311059490dae436d4324</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 06:09:47</sys_created_on>
+        <sys_id>6345ef734761311059490dae436d4353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18afe74e1010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 06:09:47</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e745ef73086131106d8b6655e76d2e52</update_guid>
+        <update_guid_history>e745ef73086131106d8b6655e76d2e52:-877400126</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 08:47:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1c76430a77c449db90c8338766b8cf81</sys_id>
+        <sys_metadata>2745af734761311059490dae436d43dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_842913_dept_re_0_type</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_parent display_value="Dept Re 0 Type">ca226f7f4721311059490dae436d434c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_scope_delete display_value="">07bceb2ea8fa425681d6ae37b90b6884</sys_scope_delete>
+        <sys_update_name>sys_ui_section_2745af734761311059490dae436d43dd</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_2745af734761311059490dae436d43dd">6345ef734761311059490dae436d4353</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 08:47:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

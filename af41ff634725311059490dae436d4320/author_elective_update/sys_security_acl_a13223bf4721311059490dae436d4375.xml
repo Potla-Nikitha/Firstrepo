@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_842913_dept_re_0_type</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 05:56:16</sys_created_on>
+        <sys_id>a13223bf4721311059490dae436d4375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_842913_dept_re_0_type</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_update_name>sys_security_acl_a13223bf4721311059490dae436d4375</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 05:56:16</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">af41ff634725311059490dae436d4320</application>
+        <file_path/>
+        <instance_id>6bda1a29dbd9211042b321c4059619e8</instance_id>
+        <instance_name>dev157483</instance_name>
+        <name>sys_security_acl_a13223bf4721311059490dae436d4375</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_842913_dept_re_0_type</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-05 05:56:16</sys_created_on><sys_id>a13223bf4721311059490dae436d4375</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_842913_dept_re_0_type</sys_name><sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package><sys_policy/><sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope><sys_update_name>sys_security_acl_a13223bf4721311059490dae436d4375</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-05 05:56:16</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>119686176</payload_hash>
+        <record_name>x_842913_dept_re_0_type</record_name>
+        <reverted_from/>
+        <source>6f41ff634725311059490dae436d4324</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 05:56:16</sys_created_on>
+        <sys_id>653223bf4721311059490dae436d4377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18afe6880f80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 05:56:16</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>693223bfee2131108f4279cc7d6e8076</update_guid>
+        <update_guid_history>693223bfee2131108f4279cc7d6e8076:119686176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 07:41:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>67337371a94b49b2b2cc6e6bdb2a4071</sys_id>
+        <sys_metadata>a13223bf4721311059490dae436d4375</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_842913_dept_re_0_type</sys_name>
+        <sys_package display_value="Dept Request" source="x_842913_dept_re_0">af41ff634725311059490dae436d4320</sys_package>
+        <sys_parent display_value="x_842913_dept_re_0_type">ca226f7f4721311059490dae436d43a6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">af41ff634725311059490dae436d4320</sys_scope>
+        <sys_scope_delete display_value="">07bceb2ea8fa425681d6ae37b90b6884</sys_scope_delete>
+        <sys_update_name>sys_security_acl_a13223bf4721311059490dae436d4375</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_a13223bf4721311059490dae436d4375">653223bf4721311059490dae436d4377</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 07:41:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
